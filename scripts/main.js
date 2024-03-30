@@ -1,0 +1,1 @@
+"use strict";var swiper=new Swiper(".swiper",{loop:!0,slidesPerView:4,breakpoints:{640:{slidesPerView:2},1024:{slidesPerView:4}},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},scrollbar:{el:".swiper-scrollbar"}});
